@@ -1,2 +1,2 @@
 # WebSock
-Low-level python back-end framework.
+Low-level Python back-end framework.   (UNDER DEVELOPMENT)
